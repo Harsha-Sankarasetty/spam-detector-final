@@ -1,0 +1,8 @@
+ALL THAT IS REQUIRED:
+flask
+transformers[torch]
+datasets
+scikit-learn
+pandas
+requests
+gunicorn
